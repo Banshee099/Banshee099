@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manas Bisht
 
-**AI Engineer at [Prudentbit](https://www.prudentbit.com)**
+**Founding Engineer at [Prudentbit](https://www.prudentbit.com)**
 
 ---
 
