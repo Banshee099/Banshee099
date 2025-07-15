@@ -1,31 +1,55 @@
-# 👋 Hi, I'm Manas Bisht!
+# 👋 Hi, I'm Manas Bisht
 
 **AI Engineer at [Prudentbit](https://www.prudentbit.com)**
 
+---
+
 ## 🚀 About Me
 
-I'm an AI Engineer with a strong passion for developing cutting-edge AI solutions. My expertise lies in deploying machine learning models, building secure platforms, and creating custom solutions from scratch. Currently, I'm focused on developing AI-driven applications that enhance secure file-sharing and data privacy.
+I'm an AI Engineer passionate about building intelligent systems and secure platforms. I specialize in developing and deploying scalable ML/NLP models, constructing end-to-end data pipelines, and creating AI-powered web applications. At Prudentbit, I lead efforts to integrate LLMs into real-time document analysis and secure file-sharing workflows.
 
-## 🔧 Skills & Tools
+---
 
-- **Languages:** Python, Java, Rust
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn
-- **Web Development:** FastAPI
-- **Cloud & DevOps:** AWS (EC2, S3), CI/CD pipelines
-- **Data Processing:** Pandas, Numpy, Matplotlib, Seaborn
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, Java, Rust, Bash, SQL
+- **AI/ML:** Transformers, RAG, Transfer Learning, Scikit-learn, TensorFlow, PyTorch, Hugging Face, OpenCV
+- **Frameworks & Libraries:** FastAPI, Django, DRF, Streamlit, LangChain, Pandas, NumPy, Matplotlib, Librosa
+- **DevOps & Cloud:** AWS (EC2, S3), Azure, GitHub Actions, Nginx, Certbot, CI/CD, SSL/TLS
 - **Database:** MySQL, PostgreSQL
+- **Concepts & Tools:** Data Privacy, PII Detection, Secure Architectures, Git, Postman, VSCode, CUDA
 
-## 💼 Professional Experience
+---
 
-### Prudentbit | AI Engineer
-- **Developed** a RAG (Retrieval-Augmented Generation) model for querying files within a secure file-sharing platform.
-- **Implemented** a PII detection model to identify and highlight personal information in documents.
-- **Set up** a CI/CD pipeline and deployed applications on AWS EC2.
+## 💼 Experience
 
-### University of Tartu | Research Assistant Intern
-- **Implemented** topic modeling techniques like LDA and BERT Topic Modeling.
-- **Applied** NER and sentiment analysis on text-based datasets.
-- **Visualized** and **analyzed** data to derive meaningful insights and shared findings with the research team.
+### 🧠 Prudentbit | Founding Engineer (Aug 2024 – Present)
+- Led development of full-stack applications aligned with business goals.
+- Designed secure, high-availability infrastructure using Nginx and automated SSL with Certbot.
+- Optimized cloud deployment, cutting costs by 40%.
+- Integrated Collabora WOPI for real-time collaborative document editing.
+
+### 🤖 Prudentbit | Lead AI Engineer (Jan 2024 – Aug 2024)
+- Developed a RAG-based conversational AI with LangChain, OpenAI, and ChromaDB.
+- Built multi-format document pipelines with LLM agents and tabular data understanding.
+- Engineered PII-safe NLP flows supporting multiple languages (English, Arabic, Devanagari).
+- Designed custom ID detection logic (e.g., Aadhaar, PAN) and context-aware prompt strategies.
+
+### 📚 University of Tartu | Research Assistant Intern (Apr 2023 – Sep 2023)
+- Applied LDA and BERT Topic Modeling for large-scale text data.
+- Performed NER and sentiment analysis for research insights.
+- Collaborated on data visualizations and findings dissemination.
+
+---
+
+## 📂 Projects
+
+### 🖼️ TinyVGG Image Classification (PyTorch)
+- Built a CNN using TinyVGG architecture on FashionMNIST.
+- Custom training/evaluation loops, accuracy tracking, and PyTorch model saving.
+- Demonstrated strong understanding of deep learning workflows.
+
+---
 
 ## 📫 Get in Touch
 
@@ -33,7 +57,3 @@ I'm an AI Engineer with a strong passion for developing cutting-edge AI solution
 - Email: [manasbisht2507@gmail.com](mailto:manasbisht2507@gmail.com)
 - X: [manasbisht099](https://x.com/manasbisht099?t=jzRhoHFTkc2Arll9GnBCfw&s=09)
 
-## 🌱 Current Projects
-
-- Implementing Neural Network from scratch using Java
-- Going Through the roots of Deep learning
