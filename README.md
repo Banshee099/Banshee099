@@ -49,6 +49,11 @@ I'm an AI Engineer passionate about building intelligent systems and secure plat
 - Custom training/evaluation loops, accuracy tracking, and PyTorch model saving.
 - Demonstrated strong understanding of deep learning workflows.
 
+### 🎨 MONET STYLE TRANSFER WITH CYCLEGAN (PYTORCH)
+- Developed an unpaired image translation system using **CycleGAN (PyTorch)** on Kaggle Photo/Monet dataset (~8K photos, ~1.2K paintings).
+- Implemented **ResNet-based generators** and **PatchGAN discriminators** for high-quality artistic style transfer.
+- Trained for **30+ epochs** with checkpointing/resume functionality and optimized data throughput using **multi-worker dataloaders**.
+- Generated and curated a gallery of **Monet-style outputs**, demonstrating successful domain adaptation and artistic translation.
 ---
 
 ## 📫 Get in Touch
